@@ -7,6 +7,16 @@ Clover P2P Reverse Shell allows you to establish a peer-to-peer (P2P) connection
 
 <br>
 
+## Features 
+
+- Secure communication using AES encryption <br>
+- Ability to execute shell commands on the remote computer <br>
+- Option to choose between listening for incoming connections or connecting to a peer <br>
+- Automatic key generation or manual key specification for added security <br>
+- Decentralized peer-to-peer communication <br>
+- Cross-platform compatibility. <br>
+
+
 ## Requirements
 
 To use Clover P2P Reverse Shell, you must have Python 3 installed on both computers.
