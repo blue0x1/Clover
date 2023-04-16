@@ -2,7 +2,7 @@
 <p align="center">
     <img alt="Clover P2P Reverse Shell" src="clover.png">
 </p>
-Clover P2P Reverse Shell allows you to establish a peer-to-peer (P2P) connection between two computers and execute shell commands on the remote computer.
+Clover P2P Reverse Shell allows you to establish a a decentralized peer-to-peer (P2P) connection between two computers and execute shell commands on the remote computer.
 
 
 <br>
