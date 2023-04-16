@@ -18,6 +18,11 @@ Clone or download the repository to your local machine.
 Install the required packages by running pip install -r requirements.txt in your terminal or command prompt.
 <br>
 
+## Prerequisites
+
+Python 3.x
+PyCryptodome
+
 ## Usage
 
 <br>
@@ -36,6 +41,11 @@ Once connected, you can execute shell commands on the remote computer by enterin
 <img alt="Clover P2P Reverse Shell" src="1.png">
 
 
+## Security 
+
+Clover P2P Reverse Shell uses AES encryption for secure communication between the peers. By default, a new key is generated automatically when the script is started in listen mode. Alternatively, you can specify a key manually when starting the script.
+
+It is recommended that you use a strong, random key and keep it confidential. You should also be careful not to leak the key over an insecure channel. <br> 
 ## Disclaimer:
 
 This project is intended for educational purposes only. The goal of this project is to learn how to establish a peer-to-peer (P2P) connection between two computers and execute shell commands on the remote computer. The project is not intended to be used for malicious purposes or to cause harm to any individual or organization. The authors of this project do not condone any illegal or unethical use of this software.
