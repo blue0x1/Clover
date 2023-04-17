@@ -30,8 +30,8 @@ Install the required packages by running pip install -r requirements.txt in your
 
 ## Prerequisites
 
-Python 3.x <br>
-PyCryptodome
+- Python 3.x <br>
+- PyCryptodome
 
 ## Usage
 
