@@ -15,7 +15,7 @@ Clover P2P Reverse Shell allows you to establish a a decentralized peer-to-peer 
 - Automatic key generation or manual key specification for added security <br>
 - Decentralized peer-to-peer communication <br>
 - Cross-platform compatibility. <br>
-
+- Add a command in queue with "-q" flag
 
 ## Requirements
 
