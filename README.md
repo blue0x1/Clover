@@ -58,4 +58,4 @@ Clover P2P Reverse Shell uses AES encryption for secure communication between th
 It is recommended that you use a strong, random key and keep it confidential. You should also be careful not to leak the key over an insecure channel. <br> 
 ## Disclaimer:
 
-This project is intended for educational purposes only. The goal of this project is to learn how to establish a peer-to-peer (P2P) connection between two computers and execute shell commands on the remote computer. The project is not intended to be used for malicious purposes or to cause harm to any individual or organization. The authors of this project do not condone any illegal or unethical use of this software.
+This project is intended for educational purposes only. The goal of this project is to learn how to establish a peer-to-peer (P2P) connection between two computers and execute shell commands on the remote computer. The project is not intended to be used for malicious purposes or to cause harm to any individual or organization. The author of this project do not condone any illegal or unethical use of this software.
