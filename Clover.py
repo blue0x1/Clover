@@ -165,7 +165,7 @@ class Peer:
         while not connected:
             try:
                 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-                sock.settimeout(5)  # Set a timeout (5 seconds, for example)
+                sock.settimeout(5) 
                 sock.connect(peer_address)
                 print(f"[+] Connected to {peer_address[0]}:{peer_address[1]}")
                 self.peers.append((sock, peer_address))
