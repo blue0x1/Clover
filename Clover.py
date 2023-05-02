@@ -30,7 +30,7 @@ art = """
           ██▓ █╙█╔██
           █▌╙ █ █╙└█
           ╙█  █▄" ,█
-           ▀█▓███▓█╨                Clover P2P Reverse Shell v1.0
+           ▀█▓███▓█╨                Clover P2P Reverse Shell v1.0 by Chokri Hammedi
             `└  `└
 """
 
