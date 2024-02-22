@@ -1,8 +1,8 @@
-<h1 align="center">Clover P2P Reverse Shell</h1>
+<h1 align="center">Clover P2P C2</h1>
 <p align="center">
     <img alt="Clover P2P Reverse Shell" src="clover.png">
 </p>
-Clover P2P Reverse Shell allows you to establish a a decentralized peer-to-peer (P2P) connection between two computers and execute shell commands on the remote computer.
+Clover P2P C2 allows you to establish a a decentralized peer-to-peer (P2P) connection between two computers and execute shell commands on the remote computer.
 
 
 <br>
@@ -19,7 +19,7 @@ Clover P2P Reverse Shell allows you to establish a a decentralized peer-to-peer 
 
 ## Requirements
 
-To use Clover P2P Reverse Shell, you must have Python 3 installed on both computers.
+To use Clover P2P C2, you must have Python 3 installed on both computers.
 <br>
 
 ## Installation
@@ -44,16 +44,16 @@ Once connected, you can execute shell commands on the remote computer by enterin
 
 ## Example
 
-<img alt="Clover P2P Reverse Shell" src="2.png">
+<img alt="Clover P2P C2" src="2.png">
 
 <br>
 
-<img alt="Clover P2P Reverse Shell" src="1.png">
+<img alt="Clover P2P C2" src="1.png">
 
 
 ## Security 
 
-Clover P2P Reverse Shell uses AES encryption for secure communication between the peers. By default, a new key is generated automatically when the script is started in listen mode. Alternatively, you can specify a key manually when starting the script.
+Clover P2P C2 uses AES encryption for secure communication between the peers. By default, a new key is generated automatically when the script is started in listen mode. Alternatively, you can specify a key manually when starting the script.
 
 It is recommended that you use a strong, random key and keep it confidential. You should also be careful not to leak the key over an insecure channel. <br> 
 ## Disclaimer:
