@@ -1,6 +1,7 @@
 <h1 align="center">Clover P2P C2</h1>
 <p align="center">
-    <img alt="Clover P2P Reverse Shell" src="clover.png">
+    <img width="1408" height="768" alt="clover" src="https://github.com/user-attachments/assets/3a0a140f-975c-4149-a614-77cb5af2299a" />
+
 </p>
 Clover P2P C2 allows you to establish a a decentralized peer-to-peer (P2P) connection between two computers and execute shell commands on the remote computer.
 
